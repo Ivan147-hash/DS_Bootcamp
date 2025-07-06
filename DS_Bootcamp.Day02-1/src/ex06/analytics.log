@@ -1,0 +1,12 @@
+2025-01-29 19:06:29, Reading information from a file
+2025-01-29 19:06:29, Read data from data.csv
+2025-01-29 19:06:29, Reading information from a file
+2025-01-29 19:06:29, Read data from data.csv
+2025-01-29 19:06:29, Calculating the counts of heads and tails
+2025-01-29 19:06:29, Counts calculated: Heads = 5, tails = 6
+2025-01-29 19:06:29, Сalculating the probability of heads or tails
+2025-01-29 19:06:29, Probability of landing heads = 45.45454545454546, tails = 54.54545454545455
+2025-01-29 19:06:29, Predicting subsequent values
+2025-01-29 19:06:29, Predicted values ​​for the next 3 steps
+2025-01-29 19:06:29, Recording a report
+2025-01-29 19:06:29, The report is recorded in report.txt
