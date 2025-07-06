@@ -31,6 +31,7 @@ def parse_financial(url, headers, value):
     except Exception as e:
         raise Exception(f"Error during parsing {url}: {e}")
 
+
 if __name__ == '__main__':
     if len(sys.argv) == 3:
         url = f'https://finance.yahoo.com/quote/{sys.argv[1]}/financials'
