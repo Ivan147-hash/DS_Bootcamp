@@ -1,0 +1,16 @@
+('Total Revenue', '254,190,000.00', '245,122,000.00', '211,915,000.00', '198,270,000.00', '168,088,000.00')
+Wed Jan 29 21:47:04 2025    profile_financial.prof
+
+         451008 function calls (446216 primitive calls) in 3.000 seconds
+
+   Ordered by: cumulative time
+   List reduced from 1435 to 5 due to restriction <5>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+    189/1    0.004    0.000    3.000    3.000 {built-in method builtins.exec}
+        1    0.000    0.000    3.000    3.000 <string>:1(<module>)
+        1    0.000    0.000    3.000    3.000 /mnt/c/Users/Иван/Общее/School/DS/DS_Bootcamp.Day03-1/src/ex04/financial_enhanced.py:7(parse_financial)
+        1    0.000    0.000    2.811    2.811 /mnt/c/Users/Иван/Общее/School/DS/DS_Bootcamp.Day03-1/src/ex00/rossiesh/lib/python3.12/site-packages/httpx/_api.py:174(get)
+        1    0.000    0.000    2.811    2.811 /mnt/c/Users/Иван/Общее/School/DS/DS_Bootcamp.Day03-1/src/ex00/rossiesh/lib/python3.12/site-packages/httpx/_api.py:39(request)
+
+
