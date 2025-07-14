@@ -15,3 +15,4 @@
 | DS Bootcamp. Day07         | Визуализация данных с использованием Matplotlib, Seaborn и Plotly |
 | DS Bootcamp. Day08         | Основы машинного обучения в Python|
 | DS Bootcamp. Day09         | Продвинутые задачи машинного обучения в Python|
+| DS Bootcamp. Team01        | Командный проект для закрепления ранее полученных знаний|
